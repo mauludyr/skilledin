@@ -1,0 +1,138 @@
+{
+    "objectives": [
+        {
+            "name": "KUE",
+            "description": "Project pembuatan dan pemasaran aneka kue",
+            "duration_period_id": 3,
+            "due_date": "2022-06-20",
+            "owner_id": 4,
+            "objective_level_id": 1,
+            "parent_object_id": null,
+            "is_save_draf": false,
+            "objective_status": "ON TRACK",
+            "is_new": true
+        },
+
+        {
+            "name": "Objective Kue 1",
+            "description": "Project pembuatan kue lapis dan martabak",
+            "duration_period_id": 3,
+            "due_date": "2022-06-20",
+            "owner_id": 4,
+            "objective_level_id": 1,
+            "parent_object_id": 1,
+            "is_save_draf": false,
+            "objective_status": "ON TRACK",
+            "is_new": true
+        },
+
+        {
+            "name": "Objective Kue 2",
+            "description": "Project pemasaran kue lapis dan martabak",
+            "duration_period_id": 4,
+            "due_date": "2022-08-30",
+            "owner_id": 4,
+            "objective_level_id": 1,
+            "parent_object_id": 1,
+            "is_save_draf": false,
+            "objective_status": "ON TRACK",
+            "is_new": true
+        }
+    ],
+    "key_results": [
+        {
+            "title": "Membuat Kue Lapis",
+            "objective_id": 2,
+            "measure_id": 3,
+            "start_value": 0,
+            "target": 300,
+            "unit": "kue",
+            "due_date": "2022-04-01",
+            "is_draft": false,
+            "owner_id": 5
+        },
+
+        {
+            "title": "Membuat Kue Lapis",
+            "objective_id": 2,
+            "measure_id": 1,
+            "start_value": 0,
+            "target": 300,
+            "unit": "kue",
+            "due_date": "2022-04-01",
+            "is_draft": false,
+            "owner_id": 6
+        },
+
+        {
+            "title": "Membuat Martabak",
+            "objective_id": 2,
+            "measure_id": 1,
+            "start_value": 10,
+            "target": 255,
+            "unit": "martabak",
+            "due_date": "2022-05-01",
+            "is_draft": false,
+            "owner_id": 7
+        },
+        {
+            "title": "Pemasaran Kue Lapis",
+            "objective_id": 3,
+            "measure_id": 1,
+            "start_value": 0,
+            "target": 300,
+            "unit": "kue",
+            "due_date": "2022-07-30",
+            "is_draft": false,
+            "owner_id": 8
+        },
+
+        {
+            "title": "Pemasaran Kue Lapis",
+            "objective_id": 3,
+            "measure_id": 1,
+            "start_value": 0,
+            "target": 300,
+            "unit": "kue",
+            "due_date": "2022-07-30",
+            "is_draft": false,
+            "owner_id": 5
+        },
+
+        {
+            "title": "Pemasaran Kue Lapis",
+            "objective_id": 3,
+            "measure_id": 1,
+            "start_value": 0,
+            "target": 300,
+            "unit": "kue",
+            "due_date": "2022-07-30",
+            "is_draft": false,
+            "owner_id": 2
+        },
+
+        {
+            "title": "Pemasaran Martabak",
+            "objective_id": 3,
+            "measure_id": 1,
+            "start_value": 10,
+            "target": 255,
+            "unit": "martabak",
+            "due_date": "2022-08-01",
+            "is_draft": false,
+            "owner_id": 7
+        },
+
+        {
+            "title": "Pemasaran Martabak",
+            "objective_id": 3,
+            "measure_id": 1,
+            "start_value": 10,
+            "target": 255,
+            "unit": "martabak",
+            "due_date": "2022-08-01",
+            "is_draft": false,
+            "owner_id": 6
+        }
+    ]
+}

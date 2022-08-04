@@ -1,0 +1,4 @@
+first_name,middle_name,last_name,email,birthday,address,phone_number,emergency_contact_name,emergency_contact_number,date_joined,nationality,location,employment_type,employment_contract,salary,grade,role_name,employee_id
+"Samuel","Hendryc","Walter","samuel@skilledin.io","1987-01-02","150 Bedok North Street 2, Singapura 460130","089849234345","Nevada","061234525","2010-11-01","Singaporean","Singapore","Community Service Manager","Fulltime",2300,"Grade C","Manager","EMP-001-0001"
+"George","John","Bayong","george_john@skilledin.io","1982-12-22","Amtech Building, 159 Sin Ming Rd, Singapura 575625","061831232","Alex","061234525","2012-10-11","Singaporean","Singapore","Advertising Sales Agent","Contract",500,"Grade A","Employee","EMP-001-0001"
+
